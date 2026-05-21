@@ -36,5 +36,4 @@ proguard-project.txt
 .idea
 # Project exclude paths
 /.github/
-/app/
 /gradle/
